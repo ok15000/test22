@@ -1,3 +1,10 @@
 test.txt更新
 
 mainにコミット
+
+branche1に更新
+文言修正
+
+branche1 追記
+
+さらに更新

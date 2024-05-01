@@ -1,3 +1,6 @@
 test.txt更新
 
 branche1に更新
+文言修正
+
+branche1 追記
